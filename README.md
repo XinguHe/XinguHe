@@ -24,12 +24,9 @@
 </p>
 
 <p align="left">
-  <a href="#" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=guilhermecaetanno87123@gmail.com" /></a>
+Gmail: <strong>guilhermecaetanno87123@gmail.com</strong>
   
-  <a href="#" alt="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=34996386599"/></a>
+Whatsapp: <strong>+55 (34) 99638-6599</strong>
 
-  <a href="#" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/xinguheprod/"/></a>
-</p>  
+Instagram: <strong>https://www.instagram.com/xinguheprod/</strong>
+</p>
