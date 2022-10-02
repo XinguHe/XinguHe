@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://github.com/XinguHe/XinguHe/blob/master/Logo_XHP.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
   Ola, Meu nome e Guilherme, Mas pode me chamar de XinguHe, ou XinguHeProd (para os intimos) 
