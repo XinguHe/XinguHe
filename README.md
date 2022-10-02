@@ -1,8 +1,10 @@
 <img src="https://github.com/XinguHe/XinguHe/blob/master/Logo_XHP.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Ola, Meu nome e Guilherme, Mas pode me chamar de XinguHe, ou XinguHeProd (para os intimos) 
-  Eu sou estudande do 2° Periodo da faculdade de Engenharia Da Computação na UEMG - Ituiutaba
+  Ola, Meu nome e Guilherme Caetano, Mas pode me chamar de XinguHe.
+  
+  Sou estudande do 2° Periodo da faculdade de Engenharia Da Computação 
+  UEMG
 </p>
 
 <p align="left">
