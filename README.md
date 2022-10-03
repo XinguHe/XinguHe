@@ -19,7 +19,7 @@
 </p>
 
 <p align="left">
-  💌 Para èntrar em contado comigo: ⤵️
+  💌 Para entrar em contado comigo: ⤵️
 </p>
 
 <p align="left">
