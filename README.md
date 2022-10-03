@@ -3,8 +3,7 @@
 <p align="left"> 
   Ola, Meu nome e Guilherme Caetano, Mas pode me chamar de XinguHe.
   
-  Sou estudande do 2° Periodo da faculdade de Engenharia Da Computação 
-  UEMG
+  Sou estudante do 2° Período da faculdade de Engenharia Da Computação UEMG
 </p>
 
 <p align="left">
