@@ -32,3 +32,6 @@ Whatsapp: [link](https://api.whatsapp.com/send/?phone=%2B5534996386599&text=Ol%C
 
 Instagram: [link](https://www.instagram.com/xinguheprod/)
 </p>
+
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=yheene47qnfznz9lhsodgcvdx&cover_image=true&theme=default&show_offline=false)](https://github.com/kittinan/spotify-github-profile)
