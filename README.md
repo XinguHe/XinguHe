@@ -13,12 +13,18 @@ Site : [link](https://xinguhe.github.io/XinguHe/)
 </p>
 
 <p align="left">
- 🎵 Hobbies: <strong>Faço Musicas , Roteiros, Edito Videos, Modelagem 3d (bem basico)</strong>
+ 💆 Hobbies: <strong>Faço Musicas , Roteiros, Edito Videos, Modelagem 3d (bem basico)</strong>
 </p>
 
 <p align="left">
   💼 Ferramentas que eu uso (normalmente): <strong>Blender, Visual Studio Code, GameMaker 2, Unity, FL Studio, Sony Vegas</strong>
 </p>
+
+<p aling="left">
+ 🎵 Musica que esta tocando no meu spotify
+</p>
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=yheene47qnfznz9lhsodgcvdx&cover_image=true&theme=natemoo-re&show_offline=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=yheene47qnfznz9lhsodgcvdx&redirect=true)
 
 <p align="left">
   💌 Para entrar em contado comigo: ⤵️
@@ -32,6 +38,3 @@ Whatsapp: [link](https://api.whatsapp.com/send/?phone=%2B5534996386599&text=Ol%C
 
 Instagram: [link](https://www.instagram.com/xinguheprod/)
 </p>
-
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=yheene47qnfznz9lhsodgcvdx&cover_image=true&theme=default&show_offline=false)](https://github.com/kittinan/spotify-github-profile)
